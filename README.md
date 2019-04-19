@@ -4,7 +4,7 @@ Generate an excelsheet with random data and make modifications to the data gener
 Setup :
 Install python v3 to your system
 
-run **python -V** from your command line to check pyhton version
+run **python -V** from your command line to check python version
 
 Install the required module(openpyxl) using : **pip install openpyxl**
 
@@ -18,7 +18,7 @@ A new column gets added to the excelsheet with the new values.
 
 **A new sheet with name 'graph_sheet' gets generatedd in the same excel file which shows the bar graph of original and new values after modification.**
 
-The modified excelsheet gets saved in modified_sheets directory.
+**The modified excelsheet gets saved in modified_sheets directory.**
 
 Run :
 
