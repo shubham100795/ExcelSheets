@@ -12,7 +12,7 @@ generate_random.py generates random data for students with marks in 3 subjects w
 
 The generated excelsheet goes into excelsheets directory.
 
-app.py shows all the excelsheets present inside excelsheets directory and is used to modify the marks of all the students to 70% of original value for any of the subjects present in the excelsheets.
+app.py shows all the excelsheets present inside excelsheets directory and is used to modify the marks of all the students to x% (given by user) of original value for any of the subjects present in the excelsheets.
 
 A new column gets added to the excelsheet with the new values.
 
